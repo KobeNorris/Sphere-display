@@ -1,0 +1,23 @@
+﻿  main.cpp
+C:\Users\kobew\Desktop\SummerResearch\OpenGL\Sphere\Sphere\main.cpp(16,48): warning C4305:  “初始化”: 从“double”到“const GLfloat”截断
+C:\Users\kobew\Desktop\SummerResearch\OpenGL\Sphere\Sphere\main.cpp(17,43): warning C4305:  “初始化”: 从“double”到“GLfloat”截断
+C:\Users\kobew\Desktop\SummerResearch\OpenGL\Sphere\Sphere\main.cpp(19,43): warning C4305:  “初始化”: 从“double”到“GLfloat”截断
+C:\Users\kobew\Desktop\SummerResearch\OpenGL\Sphere\Sphere\main.cpp(91,32): warning C4838:  从“GLfloat”转换到“int”需要收缩转换
+C:\Users\kobew\Desktop\SummerResearch\OpenGL\Sphere\Sphere\main.cpp(91,32): warning C4244:  “初始化”: 从“GLfloat”转换到“int”，可能丢失数据
+C:\Users\kobew\Desktop\SummerResearch\OpenGL\Sphere\Sphere\main.cpp(91,50): warning C4838:  从“GLfloat”转换到“int”需要收缩转换
+C:\Users\kobew\Desktop\SummerResearch\OpenGL\Sphere\Sphere\main.cpp(91,50): warning C4244:  “初始化”: 从“GLfloat”转换到“int”，可能丢失数据
+C:\Users\kobew\Desktop\SummerResearch\OpenGL\Sphere\Sphere\main.cpp(91,68): warning C4838:  从“GLfloat”转换到“int”需要收缩转换
+C:\Users\kobew\Desktop\SummerResearch\OpenGL\Sphere\Sphere\main.cpp(91,68): warning C4244:  “初始化”: 从“GLfloat”转换到“int”，可能丢失数据
+C:\Users\kobew\Desktop\SummerResearch\OpenGL\Sphere\Sphere\main.cpp(92,32): warning C4838:  从“GLfloat”转换到“int”需要收缩转换
+C:\Users\kobew\Desktop\SummerResearch\OpenGL\Sphere\Sphere\main.cpp(92,32): warning C4244:  “初始化”: 从“GLfloat”转换到“int”，可能丢失数据
+C:\Users\kobew\Desktop\SummerResearch\OpenGL\Sphere\Sphere\main.cpp(92,50): warning C4838:  从“GLfloat”转换到“int”需要收缩转换
+C:\Users\kobew\Desktop\SummerResearch\OpenGL\Sphere\Sphere\main.cpp(92,50): warning C4244:  “初始化”: 从“GLfloat”转换到“int”，可能丢失数据
+C:\Users\kobew\Desktop\SummerResearch\OpenGL\Sphere\Sphere\main.cpp(92,68): warning C4838:  从“GLfloat”转换到“int”需要收缩转换
+C:\Users\kobew\Desktop\SummerResearch\OpenGL\Sphere\Sphere\main.cpp(92,68): warning C4244:  “初始化”: 从“GLfloat”转换到“int”，可能丢失数据
+C:\Users\kobew\Desktop\SummerResearch\OpenGL\Sphere\Sphere\main.cpp(95,28): warning C4244:  “=”: 从“GLfloat”转换到“int”，可能丢失数据
+C:\Users\kobew\Desktop\SummerResearch\OpenGL\Sphere\Sphere\main.cpp(97,28): warning C4244:  “=”: 从“GLfloat”转换到“int”，可能丢失数据
+C:\Users\kobew\Desktop\SummerResearch\OpenGL\Sphere\Sphere\main.cpp(99,28): warning C4244:  “=”: 从“GLfloat”转换到“int”，可能丢失数据
+C:\Users\kobew\Desktop\SummerResearch\OpenGL\Sphere\Sphere\main.cpp(102,28): warning C4244:  “=”: 从“GLfloat”转换到“int”，可能丢失数据
+C:\Users\kobew\Desktop\SummerResearch\OpenGL\Sphere\Sphere\main.cpp(104,28): warning C4244:  “=”: 从“GLfloat”转换到“int”，可能丢失数据
+C:\Users\kobew\Desktop\SummerResearch\OpenGL\Sphere\Sphere\main.cpp(106,28): warning C4244:  “=”: 从“GLfloat”转换到“int”，可能丢失数据
+  Sphere.vcxproj -> C:\Users\kobew\Desktop\SummerResearch\OpenGL\Sphere\x64\Debug\Sphere.exe

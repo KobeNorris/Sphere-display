@@ -1,5 +1,9 @@
 # README
 
+## Description
+
+This is an Open-GL project build up for sphere displayment and data analysis.
+
 ### Right/Left mouse click:
 
     Change the index of observing sphere

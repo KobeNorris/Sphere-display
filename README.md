@@ -1,15 +1,23 @@
-# README
+# Shpere displayment
 
 ## Description
 
 This is an Open-GL project build up for sphere displayment and data analysis.
 
-### Right/Left mouse click:
+![avatar](./README/sphere.jpg)
 
-    Change the index of observing sphere
+### **Sample:**
 
-### input file:
+![avatar](./README/sphere.gif)
 
-    heart.csv : mind the index of rows program taking into account
+### **Right/Left mouse click:**
 
-### Use "w" "a" "s" "d" to  move the object
+Change the index of observing sphere.
+
+### **Input file:**
+
+heart.csv : mind the index of rows program taking into account
+
+### **Movement:**
+
+'W', 'A', 'S' and 'D'.
